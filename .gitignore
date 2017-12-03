@@ -1,0 +1,7 @@
+*.zip
+*.csv
+cred.json
+/derby.log
+/spark-warehouse
+/metastore_db
+/.ipynb_checkpoints
