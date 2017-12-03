@@ -4,6 +4,8 @@
 The test consist of 4 questions. Except question 1, all questions consist of sub questions. The time given to solve it 
 is 7 days. 
 
+## For question 2, to view visualization without executing the codes, use this link: https://s3.amazonaws.com/madet/Question%2B1%2Band%2B2.html
+
 #### Question 1
 A simple question which I believe to test efficiency to compute array/vector
 
